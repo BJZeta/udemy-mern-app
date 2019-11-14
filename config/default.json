@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://brandon616:peacelove2503@mearncluster-on0a8.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://brandon616:peacelove2503@mearncluster-on0a8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "StanLeeIsGod"
 }
